@@ -11,13 +11,13 @@
     "type": "library",
     "authors": [
         {
-            "name": "Rahul Haque",
+            "name": "Raul Haque",
             "email": "rahulhaque07@gmail.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
+        "php": "^7.3|^8.0",
         "illuminate/support": "^8.0"
     },
     "require-dev": {
